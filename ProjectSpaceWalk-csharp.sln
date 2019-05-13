@@ -1,19 +1,29 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{D2435CF1-4EDE-42F8-7978-0E422D379F57}") = "ProjectSpaceWalk", "Assembly-CSharp-firstpass-vs.csproj", "{4956C9A9-3843-6780-28AF-3DC451826C95}"
+EndProject
+Project("{D2435CF1-4EDE-42F8-7978-0E422D379F57}") = "ProjectSpaceWalk", "Assembly-CSharp-vs.csproj", "{462ECA10-233E-EFF1-1D85-CCD9BC441B87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{4956C9A9-3843-6780-28AF-3DC451826C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4956C9A9-3843-6780-28AF-3DC451826C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4956C9A9-3843-6780-28AF-3DC451826C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4956C9A9-3843-6780-28AF-3DC451826C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462ECA10-233E-EFF1-1D85-CCD9BC441B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462ECA10-233E-EFF1-1D85-CCD9BC441B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462ECA10-233E-EFF1-1D85-CCD9BC441B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462ECA10-233E-EFF1-1D85-CCD9BC441B87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-						GlobalSection(MonoDevelopProperties) = preSolution
+																																																																										GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
